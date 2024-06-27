@@ -1,8 +1,13 @@
 - 👋 Hi, I’m Cristian Delgado @cjdg
 - 👀 I’m interested in Science, Tecnology and Art
-- 🌱 I’m currently learning
+- 🌱 
+## Skills
+[![Programming](https://skillicons.dev/icons?i=androidstudio,angular,ansible,arduino,bash,c,cs,cpp,java,js,md,html,css,wasm,octave,perl,processing,r,rust,)](https://skillicons.dev)
 
-[![Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+# OSes
+[![Operating Systems](https://skillicons.dev/icons?i=debian,freebsd,ubuntu,windows)](https://skillicons.dev)
+
+
 
 
 
